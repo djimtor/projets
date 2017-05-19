@@ -1,6 +1,6 @@
 #!/bin/bash
 #================================================
-# Nom :djimtor aladou
+# Nom :djimtor aladoum
 # prenom: serge  gaston
 # matricule:14b046fs
 #================================================
